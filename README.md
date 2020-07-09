@@ -1,4 +1,6 @@
-> Members only (Authentication)
+[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Murilo-Click%20to%20Contact-brightgreen)](mailto:muriloengqui@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/MuriloRoquePai1?label=Follow%20Murilo%20on%20Twitter&style=social)](https://twitter.com/MuriloRoquePai1)
+
+## Members only (Authentication)
 
 Project based on authenticating users on a given web page.
 
@@ -11,32 +13,17 @@ Project based on authenticating users on a given web page.
 
 ## What it does?
 
- Creat users to see eachother and once they are log out, non can see eachother but can see a post from a ghost.
+You can signup for the forum and, if you are, you can see the post's authors and who commented on it. If you are not logged in, you cannot see the authors.
 
 ## Getting Started
 
-Clone or fork this repo and play around with it as you wish
-
-### Prerequisites
-
-- Get your browser up to date
-- Ruby
-- Ruby on Rails
-
-### Setup
 - Clone the project to your local machine;
-- cd into the project directory;
-- Run bundle install to install the necessary gems;
-- Run rails db:migrate to create your database columns;
-- Run rails s to start a server in your computer;
-- In your browser address, type the following URL: localhost:3000;
+- `cd` into the project directory;
+- Run `bundle install` to install the necessary gems;
+- Run `rails db:migrate` to create your database columns;
+- Run `rails s` to start a server in your computer;
+- In your browser address, type the following URL: [localhost:3000](localhost:3000);
 - Enjoy the App and its functionalities!
-
-### Install
-
-- Install VSCode or any code editor you like
-- Install Node JS and nmp(most recents versions)
-- Run this command on your terminal in order to install stylelint: npm install stylelint stylelint-config-recommended --save-dev
 
 ## Authors
 
@@ -49,9 +36,9 @@ Aremu Lucky
 
 👤 **Author2**
 Murilo Roque Paiva da Silva
-- Github: [@muriloroque](https://github.com/MuriloRoque)
-- Twitter: [@MuriloRoquePai1](https://twitter.com/MuriloRoquePai1)
-- Linkedin: [MuriloRoque](https://www.linkedin.com/in/murilo-roque-b1268741/)
+Github: [@MuriloRoque](https://github.com/MuriloRoque)
+Twitter: [@MuriloRoquePai1](https://twitter.com/MuriloRoquePai1)
+Linkedin: [MuriloRoque](https://www.linkedin.com/in/murilo-roque-b1268741/)
 
 
 ## 🤝 Contributing
@@ -69,9 +56,3 @@ Open a Pull Request with a detailed description to the development branch of the
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- (https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication)
-
-## 📝 License
