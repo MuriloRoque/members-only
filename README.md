@@ -2,6 +2,8 @@
 
 ## Members only (Authentication)
 
+![screenshot](images/screenshot.png)
+
 Project based on authenticating users on a given web page.
 
 ## Built With
